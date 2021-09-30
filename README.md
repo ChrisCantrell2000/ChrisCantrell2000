@@ -1,4 +1,4 @@
-👋 Hi, I’m Chris—Apple enthusiast, writer, and tech consultant for <a href="macs4U.com">Macs4U</a>. 
+👋 Hi, I’m Chris—Apple enthusiast, writer, and tech consultant for <a href="https://www.macs4U.com">Macs4U</a>. 
 
 👀 I tend to keep an eye out for tech updates so I can write about it! I also enjoy a good sci-fi movie.
 
